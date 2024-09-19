@@ -3,7 +3,7 @@ import React from 'react';
 function Greeting(){
     return(
         <div>
-            <h2>Hej, kom lek med oss varje dag!</h2>
+            <h2>Hej, goddag!</h2>
 
             </div>
     );

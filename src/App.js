@@ -11,7 +11,7 @@ function App() {
         <Greeting/>
         <Hi/>
         <p>
-          Hej Dilva Jundi
+          running my app with docker 
         </p>
         <a
           className="App-link"
