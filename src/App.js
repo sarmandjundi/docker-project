@@ -1,13 +1,17 @@
 import logo from './logo.svg';
 import './App.css';
+import Greeting from './Greeting';
+import Hi from './Hi';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <Greeting/>
+        <Hi/>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Hej Dilva Jundi
         </p>
         <a
           className="App-link"
